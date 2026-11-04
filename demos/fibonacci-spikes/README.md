@@ -14,3 +14,5 @@ An interactive N64 demo with spikes arranged on a Fibonacci sphere. A sine wave 
 | D-pad Up | Show / hide stats |
 
 Extract the ZIP and open the `.z64` in an N64 emulator, or copy it to a SummerCart64 SD card and launch it from the menu.
+
+Follow on X: [@bzor](https://x.com/bzor) · Instagram: [@bzorsystems](https://www.instagram.com/bzorsystems/).

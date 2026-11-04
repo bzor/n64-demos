@@ -4,8 +4,6 @@ Version 1.0.0 · Nintendo 64 homebrew
 
 Midi parser + visualization of a version of the classic electronic track Popcorn I made in Ableton Live..
 
-Follow on X: **@bzor** · Instagram: **@bzorsystems**.
-
 ## Play on SummerCart64
 
 1. Extract this ZIP.
@@ -26,3 +24,5 @@ Follow on X: **@bzor** · Instagram: **@bzorsystems**.
 | Previous / next song cue | L / R | Q / E |
 
 See `THIRD_PARTY_NOTICES.txt` for component credits and notices.
+
+Follow on X: [@bzor](https://x.com/bzor) · Instagram: [@bzorsystems](https://www.instagram.com/bzorsystems/).
